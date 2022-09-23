@@ -1,0 +1,1 @@
+from deppClassifier.components.data_ingestion import DataIngestion

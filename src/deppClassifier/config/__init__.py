@@ -1,0 +1,2 @@
+from deppClassifier.config.configuration import ConfigurationManager
+

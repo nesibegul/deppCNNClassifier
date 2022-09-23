@@ -13,4 +13,4 @@
 9. Run tox for testing your package
 10. Update the dvc.yaml
 11. run "dvc repo" for running all the stages in pipeline
-![img](C:\Users\User\Desktop\Data_Science_Program\CNN_PROJECTS\CodeBase\deppCNNClassifier\docs\images\flow_image.png)
+![img](https://raw.githubusercontent.com/c17hawke/FSDS_NOV_deepCNNClassifier/main/docs/images/Data%20Ingestion%402x%20(1).png)
