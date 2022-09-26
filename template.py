@@ -1,4 +1,4 @@
-from asyncio.log import logger
+
 import os
 from pathlib import Path
 import logging
@@ -44,6 +44,6 @@ for filepath in list_of_files:
     if (not os.path.exists(filepath)) or (os.path.getsize(filepath) == 0):
         with open(filepath, "w") as f:
             pass #this helps create a empty file
-            logger.info(f"Creating file: {filepath}")
+            logging.info(f"Creating empty file: {filepath}")
     else:
         logging.info(f"{filename} already exists ")
