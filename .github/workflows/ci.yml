@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "master" ] ###burada değişiklik yaptım main normalde
   pull_request:
-    branches: [ "master" ]
+    branches: [ "master" ] ###burada değişiklik yaptım main normalde
 
 permissions:
   contents: read
