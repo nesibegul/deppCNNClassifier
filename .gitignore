@@ -139,3 +139,9 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-38-33/tr
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-45-47/train/events.out.tfevents.1664523957.DESKTOP-ASTLLM6.29444.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-49-45/train/events.out.tfevents.1664524194.DESKTOP-ASTLLM6.28324.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-29-21-11-58/train/events.out.tfevents.1664475125.DESKTOP-ASTLLM6.6332.0.v2
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-12-09-37/train/events.out.tfevents.1664528986.DESKTOP-ASTLLM6.13308.0.v2
+artifacts/training/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-14-31-45/train/events.out.tfevents.1664537512.DESKTOP-ASTLLM6.13308.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-14-31-45/validation/events.out.tfevents.1664544894.DESKTOP-ASTLLM6.13308.2.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-20-08-16/train/events.out.tfevents.1664557701.DESKTOP-ASTLLM6.38788.0.v2
