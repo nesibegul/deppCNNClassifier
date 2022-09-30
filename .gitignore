@@ -133,3 +133,9 @@ dmypy.json
 *.jpg
 artifacts/prepare_base_model/base_model_updated.h5
 artifacts/prepare_base_model/base_model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-21-40/train/events.out.tfevents.1664522510.DESKTOP-ASTLLM6.6332.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-27-01/train/events.out.tfevents.1664522832.DESKTOP-ASTLLM6.4692.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-38-33/train/events.out.tfevents.1664523523.DESKTOP-ASTLLM6.28788.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-45-47/train/events.out.tfevents.1664523957.DESKTOP-ASTLLM6.29444.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-49-45/train/events.out.tfevents.1664524194.DESKTOP-ASTLLM6.28324.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-29-21-11-58/train/events.out.tfevents.1664475125.DESKTOP-ASTLLM6.6332.0.v2
