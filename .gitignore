@@ -128,9 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 #vscode
-.vscode
+.vscode/
 *.zip
 *.jpg
+
+
 artifacts/prepare_base_model/base_model_updated.h5
 artifacts/prepare_base_model/base_model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-10-21-40/train/events.out.tfevents.1664522510.DESKTOP-ASTLLM6.6332.1.v2
