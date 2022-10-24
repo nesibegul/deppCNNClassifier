@@ -7,9 +7,9 @@ stages:
     outs: 
       - artifacts/data_ingestion/PetImages
   prepare_base_model:
-    cmd: python src/deepClassifier/pipeline/stage_02_prepare_base_model.py
+    cmd: python src/deppClassifier/pipeline/stage_02_prepare_base_model.py
     deps:
-      - src/deepClassifier/pipeline/stage_02_prepare_base_model.py
+      - src/deppClassifier/pipeline/stage_02_prepare_base_model.py
       - configs/config.yaml
     params:
       - IMAGE_SIZE
@@ -20,10 +20,10 @@ stages:
     outs:
       - artifacts/prepare_base_model
   training:
-    cmd: python src/deepClassifier/pipeline/stage_03_training.py
+    cmd: python src/deppClassifier/pipeline/stage_03_training.py
     deps:
-      - src/deepClassifier/pipeline/stage_03_training.py
-      - src/deepClassifier/components/prepare_callback.py
+      - src/deppClassifier/pipeline/stage_03_training.py
+      - src/deppClassifier/components/prepare_callback.py
       - configs/config.yaml
       - artifacts/data_ingestion/PetImages
       - artifacts/prepare_base_model
