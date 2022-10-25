@@ -147,3 +147,5 @@ artifacts/training/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-14-31-45/train/events.out.tfevents.1664537512.DESKTOP-ASTLLM6.13308.1.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-14-31-45/validation/events.out.tfevents.1664544894.DESKTOP-ASTLLM6.13308.2.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-09-30-20-08-16/train/events.out.tfevents.1664557701.DESKTOP-ASTLLM6.38788.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-10-24-18-50-10/train/events.out.tfevents.1666626614.DESKTOP-ASTLLM6.1892.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2022-10-24-18-50-10/validation/events.out.tfevents.1666638857.DESKTOP-ASTLLM6.1892.1.v2
